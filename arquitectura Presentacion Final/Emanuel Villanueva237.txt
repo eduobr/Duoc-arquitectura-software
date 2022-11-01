@@ -1,0 +1,21 @@
+RESUMEN 
+
+En el siguiente informe se analiza la problematica y la utilizacion de monitoreo y seguridad.
+Se presentan dos situaciones: En el primero, se plantea el problema en el cual actualmente no se
+dispone de indicadores de desempeño, lo cual esto genera ineficiencias al momento de realizar
+cierres mensuales. En el segundo punto se plantea la mejora y crea el area de control visual lo
+cual atiende un nuevo tipo de servicio y asi permite que se mapeen los nuevos procesos de monitoreo
+de control Visual y no-Visual para que de este modo se refleje los procesos documentados. Los resultados
+señalan diferencias significativas entre todas las formas de evaluacion, tanto en lo que es como en la arquitectura, 
+como tambien en los requerimientos.
+
+
+CONCLUSION
+
+Después de realizar las evaluaciones correspondientes y utilizar los métodos ya conocidos y mencionados con anterioridad, 
+se concluye que VeriSafe es una gran compañia que necesita un mejoramiento en la seguridad. Se sugiere la 
+Creacion de areas de control y monitoreo para que asi el servicio mejore rotundamente y se puedan mapear 
+los procesos de forma satisfactoria. Ademas se solicita una toma de requerimientos parciales ya que esta 
+arquitectura esta basada en tres capas,para que asi la gerencia mejore en forma fisica la seguridad y 
+VeriSafe siga creciendo con esta seguridad que se ha planteado.
+

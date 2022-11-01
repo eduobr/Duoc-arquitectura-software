@@ -1,0 +1,25 @@
+Gerente:
+	.
+SubGerente:
+	.administrar las jefaturas
+	.debe poder asignar metas de ventas
+	.realizar teleconferencias con las 5 zonas del pais
+Jefatura de ventas:
+	.debe poder ver las metas de ventas esperadas
+	.debe poder monitorear el avance de sus equipos de ventas, incluyendo ventas cerradas 
+	.debe poder monitorear las ventas en proceso 
+	.debe poder monitorear los prospectos de clientes 
+	.guardar planilla de reporte de estado
+Vendedores:
+	.guardar minuta de reuniones
+	.guardar la planilla registro de actividad diaria
+	 en la que adjunte una bitacora con las visitas agendadas y realizadas
+	.generar planilla de minuta de reuniones
+	.guardar datos de contacto de los clientes
+Sistema:
+	.Generar ficha de prospección de los contactos de los vendedores
+	.generar una planilla con un registro de actividad diaria para los vendedores
+	.generar minuta de reuniones para los vendedores
+	.generar planilla de reporte de estado para la jefatura de ventas
+	.generar contratos para clientes
+	.

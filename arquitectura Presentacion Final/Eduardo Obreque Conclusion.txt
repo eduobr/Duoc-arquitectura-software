@@ -1,0 +1,6 @@
+Como conclusión podemos decir que el sistema desarrollado para la empresa verysafe busca automatizar 
+los procesos de venta y monitoreo realizados por la empresa para mejorar la gestión y administración 
+de cada gerencia con esto los empleados no gastarán el tiempo y recursos que se empleaban 
+en las tareas antiguas así como también se reducirá el margen de la tasa de fallo y errores 
+del sistema brindándole un servicio de calidad a los clientes que les permita sentirse seguros 
+con la empresa cumpliendo con la misión y visión de la empresa verysafe. 

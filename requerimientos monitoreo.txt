@@ -1,0 +1,33 @@
+-El sistema le debe permitir al analista guardar un registro con
+ el evento que inicio la activacion del sensor infra rojo indicando:
+ evento de activacion,fecha,hora,evaluacion del evento y acciones posteriores tomadas
+
+-El sistema le debe permitir al analista de seguridad enviar un correo al analista de 
+ enrutamiento en caso de no ser posible de verficar un falso positivo
+
+-El analista de enrutamiento debe poder enviar una notificacion al equipo de 
+ reaccion para que verifique o el evento o opcionalmente el analista
+ puede enviar un drone
+
+-El analista de enrutamiento debe poder indicarle al equipo de reaccion
+ cuales son las rutas mas expeditas hasta la direccion del cliente
+
+-si se confirma un falso positivo en terreno el analista de seguridad debe poder
+ guardar un registro con el detalle del equipo de reacción enviado y su reporte.
+
+-En caso de confirmarse el codigo rojo el con presencia del
+ cliente en el mismo edificio analista debe informar al cliente(sms)
+
+-Los Clientes que subscriban tele vigilancia deben poder ver las
+ imagenes que transmitan las camara de manera online además de los registros
+ de los dias anteriores
+
+-Los Clientes deben poder ver el seguimiento de todos los eventos registrados
+
+-El sistema debe guardar las conexiones y desconexiones de los analistas
+ al iniciar y terminar su turno
+
+
+
+
+
